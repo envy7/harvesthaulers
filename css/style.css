@@ -1,0 +1,21 @@
+.container-fluid{
+	padding:0px;
+}
+
+#home{
+	background-image: url("frontpage2.png");
+  	background-repeat: no-repeat;
+  	background-attachment: scroll;
+  	background-size: cover;
+  	height:100%;
+  	max-width:100%;
+  	position:relative;
+  	
+}
+
+#content{
+	position:absolute;
+	top:40%;
+	left:50%;
+}
+
